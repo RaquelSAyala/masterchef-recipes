@@ -1,10 +1,9 @@
-# Master Chef Celebrity – API de Recetas (Java + Spring Boot)
+# Master Chef Celebrity 
 Nombre: Raquel Selma
-
-
+--
 API REST para gestionar recetas del programa **Master Chef Celebrity** en **Java 17** con **Spring Boot 3**, **MongoDB**, **Validación** y **OpenAPI/Swagger**.
 ## Requisitos
-- Java 17+, Maven 3.9+, MongoDB (local o Atlas)
+- Java 17+, Maven 3.9+, MongoDB (local)
 ## Ejecutar
 ```bash
 mvn spring-boot:run
@@ -22,6 +21,3 @@ mvn spring-boot:run
 - GET `/api/v1/recipes/search/by-ingredient?ingredient=Queso`
 - PUT `/api/v1/recipes/{seq}`
 - DELETE `/api/v1/recipes/{seq}`
-## Notas
-- `season` es obligatoria cuando `authorType=participant` (HTTP 400 si falta).
-- `seq` se genera con colección `counters` usando `findAndModify`.
