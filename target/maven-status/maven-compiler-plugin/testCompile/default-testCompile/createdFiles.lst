@@ -1,0 +1,7 @@
+dows\masterchef\controller\RecipeControllerTest.class
+dows\masterchef\model\RecipeMongoDBIntegrationTest.class
+dows\masterchef\model\RecipeTest.class
+dows\masterchef\model\CounterTest.class
+dows\masterchef\dto\RecipeInputTest.class
+dows\masterchef\service\SequenceServiceTest.class
+dows\masterchef\service\RecipeServiceTest.class

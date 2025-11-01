@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dows.masterchef.service.RecipeServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.414 s -- in dows.masterchef.service.RecipeServiceTest

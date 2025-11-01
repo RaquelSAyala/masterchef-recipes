@@ -1,0 +1,12 @@
+dows\masterchef\controller\RecipeController.class
+dows\masterchef\repository\RecipeRepository.class
+dows\masterchef\model\AuthorType.class
+dows\masterchef\exception\GlobalExceptionHandler.class
+dows\masterchef\model\Counter.class
+dows\masterchef\MasterchefApplication.class
+dows\masterchef\service\SequenceService.class
+dows\masterchef\dto\RecipeInput.class
+dows\masterchef\model\Recipe.class
+dows\masterchef\exception\ApiException.class
+dows\masterchef\service\RecipeService.class
+dows\masterchef\config\MongoConfig.class

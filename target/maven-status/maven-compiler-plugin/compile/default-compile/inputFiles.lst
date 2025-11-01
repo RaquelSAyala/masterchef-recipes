@@ -1,0 +1,12 @@
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\config\MongoConfig.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\controller\RecipeController.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\dto\RecipeInput.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\exception\ApiException.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\exception\GlobalExceptionHandler.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\MasterchefApplication.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\model\AuthorType.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\model\Counter.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\model\Recipe.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\repository\RecipeRepository.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\service\RecipeService.java
+C:\Users\DELL\Downloads\masterchef-recipes-api-java\src\main\java\dows\masterchef\service\SequenceService.java
