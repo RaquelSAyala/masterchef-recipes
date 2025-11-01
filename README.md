@@ -1,5 +1,7 @@
 # Master Chef Celebrity – API de Recetas (Java + Spring Boot)
 Nombre: Raquel Selma
+
+
 API REST para gestionar recetas del programa **Master Chef Celebrity** en **Java 17** con **Spring Boot 3**, **MongoDB**, **Validación** y **OpenAPI/Swagger**.
 ## Requisitos
 - Java 17+, Maven 3.9+, MongoDB (local o Atlas)
